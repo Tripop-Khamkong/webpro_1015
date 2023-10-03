@@ -1,0 +1,26 @@
+div{
+    text-align: center;
+}
+body{
+    background-color: rgb(236, 240, 194);
+}
+h1{
+    background-color: rgb(237, 84, 84);
+    color: rgb(243, 188, 61);
+}
+h3{
+    background-color: rgb(237, 84, 84);
+    color: rgb(243, 188, 61);
+}
+#my_pic{
+    width: 25%;
+}
+div a{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(57, 75, 235);
+}
+ul{
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    font-size: 10pt;
+}
